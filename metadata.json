@@ -1,0 +1,5 @@
+{
+  "name": "VEO Video Generator + Nano Banana",
+  "description": "A web application to generate videos using Google's VEO model.",
+  "requestFramePermissions": []
+}
